@@ -164,47 +164,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf3a9f0-a213-4bad-b2ee-a5aa2ef8dd99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ubuntu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agvs_common" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agvs_sim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_setup_tf/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_setup_tf/package.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_setup_tf/src/laser.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_setup_tf/src/tf_broadcaster.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_setup_tf/src/tf_listener.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robotnik_purepursuit_planner" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serial/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serial/include/serial/CRC_Check.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serial/include/serial/Serial.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serial/include/serial/global_struct.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serial/msg/wheelPulse.msg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serial/msg/wheelSpeed.msg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serial/package.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serial/src/CRC_Check.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serial/src/Serial.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agvs_common" beforeDir="false" afterPath="$PROJECT_DIR$/agvs_common" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agvs_common/agvs_description/launch/agvs.launch" beforeDir="false" afterPath="$PROJECT_DIR$/agvs_common/agvs_description/launch/agvs.launch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agvs_common/agvs_description/urdf/vrep/xacro2urdf.sh" beforeDir="false" afterPath="$PROJECT_DIR$/agvs_common/agvs_description/urdf/vrep/xacro2urdf.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agvs_common/agvs_description/urdf/xacro2urdf.sh" beforeDir="false" afterPath="$PROJECT_DIR$/agvs_common/agvs_description/urdf/xacro2urdf.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agvs_common/agvs_pad/launch/agvs_pad.launch" beforeDir="false" afterPath="$PROJECT_DIR$/agvs_common/agvs_pad/launch/agvs_pad.launch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agvs_common/agvs_pad/launch/agvs_pad.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/agvs_common/agvs_pad/launch/agvs_pad.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agvs_common/agvs_pad/src/agvs_pad_node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/agvs_common/agvs_pad/src/agvs_pad_node.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agvs_sim/agvs_gazebo/launch/agvs_sim_complete.launch" beforeDir="false" afterPath="$PROJECT_DIR$/agvs_sim/agvs_gazebo/launch/agvs_sim_complete.launch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agvs_sim/agvs_sim_bringup/launch/mapping.rviz" beforeDir="false" afterPath="$PROJECT_DIR$/agvs_sim/agvs_sim_bringup/launch/mapping.rviz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agvs_sim/agvs_sim_bringup/scripts/save_map.sh" beforeDir="false" afterPath="$PROJECT_DIR$/agvs_sim/agvs_sim_bringup/scripts/save_map.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_msgs/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_msgs/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_msgs/action/GoTo.action" beforeDir="false" afterPath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_msgs/action/GoTo.action" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_msgs/generate_msgs.sh" beforeDir="false" afterPath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_msgs/generate_msgs.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_planner/config/waypoints.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_planner/config/waypoints.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_planner/include/robotnik_pp_planner/Component.h" beforeDir="false" afterPath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_planner/include/robotnik_pp_planner/Component.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_planner/scripts/robotnik_pp_planner/path_marker.py" beforeDir="false" afterPath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_planner/scripts/robotnik_pp_planner/path_marker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_planner/src/purepursuit_planner.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/robotnik_purepursuit_planner/robotnik_pp_planner/src/purepursuit_planner.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/../build/" />
